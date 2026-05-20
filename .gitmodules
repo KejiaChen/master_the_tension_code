@@ -4,3 +4,4 @@
 [submodule "master_the_tension_mios"]
 	path = master_the_tension_mios
 	url = git@github.com:KejiaChen/master_the_tension_mios.git
+	branch = master_the_tension
